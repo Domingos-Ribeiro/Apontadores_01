@@ -39,8 +39,10 @@ int main()
 	// Array
 	ficha meuArrayDeFichas[3];
 
-
+	// Preencher o array
 	init_array(meuArrayDeFichas);
+
+	// Listar o array na consola
 	print_array(meuArrayDeFichas);
 }
 
