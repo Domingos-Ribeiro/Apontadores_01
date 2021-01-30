@@ -45,7 +45,7 @@ int main()
 	// Listar o array na consola
 	print_array(meuArrayDeFichas);
 
-	
+	//Finish
 }
 
 
