@@ -43,9 +43,11 @@ int main()
 	init_array(meuArrayDeFichas);
 
 	// Listar o array na consola
-	print_array(meuArrayDeFichas);
+	//print_array(meuArrayDeFichas);
 
-	//Finish
+	//Outra maneira de listar
+	cout << meuArrayDeFichas;
+	cout << GeraValor;
 }
 
 
